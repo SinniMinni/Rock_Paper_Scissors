@@ -2,7 +2,8 @@
 //  main.cpp
 //  Rock_Paper_Scissors
 //
-//  Created by Sanjeev Shankar 
+//  Created by Sanjeev Shankar
+//
 
 
 /**
@@ -136,7 +137,7 @@ int main(int argc, const char * argv[]) {
             cout << "Computer Wins!" << endl;
         else
             cout << "!!! TIE !!!" << endl;
-    }//while loop 
+    }//while loop
 
 
     cout << "BYE :) " << endl;
